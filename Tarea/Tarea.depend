@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1746640298 source:c:\users\estudiante\onedrive\escritorio\tarea.programacion-\tarea\main.cpp
+	<iostream>
+	"ArchivoObras.h"
+
+1746639896 source:c:\users\estudiante\onedrive\escritorio\tarea.programacion-\tarea\archivoobras.cpp
+	<iostream>
+	"Obras.h"
+
+1746638116 c:\users\estudiante\onedrive\escritorio\tarea.programacion-\tarea\obras.h
+	<cstring>
+	"Fechas.h"
+
+1746635689 c:\users\estudiante\onedrive\escritorio\tarea.programacion-\tarea\fechas.h
+
+1746653563 c:\users\estudiante\onedrive\escritorio\tarea.programacion-\tarea\archivoobras.h
+	<iostream>
+	"Obras.h"
+
